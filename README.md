@@ -6,3 +6,11 @@ node index.js
 ```
 
 output: numbers.txt
+
+format: 
+
+00000000
+00000001
+...
+99999998
+99999999
