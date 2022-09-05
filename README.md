@@ -4,3 +4,5 @@
 npm i
 node index.js
 ```
+
+output: numbers.txt
